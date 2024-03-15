@@ -1,11 +1,11 @@
 # py-test
 python test 
 
-install dependencies using below command
-tabula also requires - java 
-pip install tabula-py pandas openpyxl
+install dependencies using below command <br>
+tabula also requires - java <br>
+pip install tabula-py pandas openpyxl <br>
 
 
-Git configuration
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+Git configuration <br>
+  git config --global user.email "you@example.com" <br>
+  git config --global user.name "Your Name" <br>
